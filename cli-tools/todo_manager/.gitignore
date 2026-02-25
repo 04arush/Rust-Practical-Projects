@@ -1,0 +1,5 @@
+# Compiled binaries, debug info and build cache
+target/
+
+# Local database file containing tasks
+tasks.json
