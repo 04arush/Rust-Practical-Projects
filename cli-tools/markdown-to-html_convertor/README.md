@@ -13,7 +13,7 @@ A simple command-line tool built with Rust that converts Markdown files to HTML 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/04arush/Rust-Practice.git
 cd rust_practical_projects/cli-tools/markdown-to-html_convertor
 ```
 
