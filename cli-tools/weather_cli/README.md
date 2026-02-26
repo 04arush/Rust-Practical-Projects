@@ -14,7 +14,7 @@ A simple command-line weather application built with Rust that fetches real-time
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/04arush/Rust-Practice.git
 cd rust_practical_projects/cli-tools/weather_cli
 ```
 
