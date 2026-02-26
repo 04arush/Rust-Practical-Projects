@@ -1,0 +1,10 @@
+# Compiled binaries, debug info and build cache
+target/
+
+# Environment Variables
+.env
+
+# Local SQLite database files
+*.db
+*.db-shm
+*.db-wal
